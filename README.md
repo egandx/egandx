@@ -6,11 +6,32 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
--->
+  -->
+
+- 🎉 Welcome to my GitHub profile!
+
+- 👨🏻‍💻 I'm  a C#/Go developer.
+
+- 🌱 Music is the savior.
+
+  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egandx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egandx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egandx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egandx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egandx&theme=github)
