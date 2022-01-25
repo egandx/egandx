@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 I'm  a C#/Go developer.
 
+- 🔭 I’m currently working on the smart factory.
+
 - 🌱 Music is the savior.
 
   
